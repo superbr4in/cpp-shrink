@@ -1,2 +1,2 @@
 # cpp-shrink
-So small!
+Shrink your C++ files.
